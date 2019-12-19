@@ -57,6 +57,7 @@ public class PrimaTest {
 		result = pr.calculoPrima();
 		
 		assertEquals(750, pr.calculoPrima(), 0);
+		//COMENTARIO PARA HACER PUSH Y VALIDAR QUE SE DISPARE JENKINS
 	}
 
 }
